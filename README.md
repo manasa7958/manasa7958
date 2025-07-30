@@ -26,13 +26,13 @@ I'm a junior at **UMass Lowell**, double majoring in **Computer Science (Data Sc
 - 🧬 [Nanopore Tumor Classification Pipeline (Dana-Farber)](https://github.com/manasa7958/dfci_internship_summary) *(private)*  
   Designed and automated a sequencing analysis pipeline reducing runtime from 30 to 5 minutes; classified CNS tumors using machine learning.
 
-- 🔧 [Kronos Log Parser (C++)](https://github.com/manasa7958/comp-iv-projects)  
+- 🔧 [Kronos Log Parser (C++)](https://github.com/manasa7958/Projects)  
   Parsed system logs with Boost.Regex for millisecond-accurate performance tracking and uptime monitoring.
 
-- 🧬 [DNA Sequence Aligner (Hirschberg’s Algorithm)](https://github.com/manasa7958/comp-iv-projects)  
+- 🧬 [DNA Sequence Aligner (Hirschberg’s Algorithm)](https://github.com/manasa7958/Projects)  
   Reduced memory usage by 99% on 100K+ base alignments using space-optimized divide-and-conquer algorithm.
 
-- 🎲 [Random Writer – Markov Model (C++)](https://github.com/manasa7958/comp-iv-projects)  
+- 🎲 [Random Writer – Markov Model (C++)](https://github.com/manasa7958/Projects)  
   Generated synthetic text using character-level Markov chains trained on 6K+ line datasets for statistical modeling.
 
 - 🚀 [GPU Usage Visualizer (Python)](https://github.com/manasa7958/gpu-usage-visualizer) *(in progress)*  
