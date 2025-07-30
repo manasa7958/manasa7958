@@ -20,10 +20,10 @@ I'm a junior at **UMass Lowell**, double majoring in **Computer Science (Data Sc
 ---
 
 ### 💡 Featured Projects
-- 🧠 [Lean Theorem Prover – Real Analysis Proofs](https://github.com/manasa7958/lean4-proofs)  
+- 🧠 [Lean Theorem Prover – Real Analysis Proofs](https://github.com/manasa7958/lean-oscillatory)  
   Formalized theorems like Van der Corput’s Lemma using Lean 4, applied to proof verification and real analysis models.
 
-- 🧬 [Nanopore Tumor Classification Pipeline (Dana-Farber)](https://github.com/manasa7958/dfci_internship_summary) *(private)*  
+- 🧬 [Nanopore Tumor Classification Pipeline (Dana-Farber)](https://github.com/manasa7958/dfci_internship_summary)
   Designed and automated a sequencing analysis pipeline reducing runtime from 30 to 5 minutes; classified CNS tumors using machine learning.
 
 - 🔧 [Kronos Log Parser (C++)](https://github.com/manasa7958/Projects)  
