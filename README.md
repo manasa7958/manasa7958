@@ -50,7 +50,7 @@ I'm a junior at **UMass Lowell**, double majoring in **Computer Science (Data Sc
 ### 💬 Let’s Connect
 - 📫 Email: manasapraveen.work@gmail.com  
 - 💼 [LinkedIn](https://www.linkedin.com/in/manasapraveen)  
-- 🌐 Portfolio Website: *Coming Soon*
+- 🌐 Portfolio Website: [*Coming Soon*](https://portfolio-27tw.vercel.app)
 
 ---
 
